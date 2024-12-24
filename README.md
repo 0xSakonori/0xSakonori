@@ -1,4 +1,12 @@
-## Hi there 👋
+# My contact:
+<iframe
+    title="Discord user embed"
+    width="340"
+    height="192"
+    frameborder="0"
+    sandbox="allow-scripts"
+    src="https://widgets.vendicated.dev/user?id=652400008141996042&theme=dark&banner=true&full-banner=true&rounded-corners=true&discord-icon=true&badges=false&guess-nitro=false&"
+></iframe>
 
 <!--
 **0xSakonori/0xSakonori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
