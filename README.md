@@ -1,11 +1,5 @@
 # My contact:
-<html>
-    <body>
-        <div>
-        <iframe title="Me"width="340"height="192"frameborder="0"sandbox="allow-scripts"src="https://widgets.vendicated.dev/user?id=652400008141996042&theme=dark&banner=true&full-banner=true&rounded-corners=true&discord-icon=true&badges=false&guess-nitro=false&"></iframe>
-        </div>
-    </body>
-</html>
+![Statut Discord](https://lanyard-profile-readme.vercel.app/api/652400008141996042)
 
 <!--
 **0xSakonori/0xSakonori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
