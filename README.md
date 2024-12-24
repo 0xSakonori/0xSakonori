@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://minimalistic-wallpaper.demolab.com/#alena-aenami-7pm.png" alt="img #01">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/alena-aenami-7pm.png" alt="img #01">
 </div>
 ![Statut Discord](https://lanyard-profile-readme.vercel.app/api/652400008141996042)
 
